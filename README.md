@@ -43,7 +43,7 @@ Download the [latest release of Sigmastrap](https://github.com/sigmastraplabs/si
 
 Alternatively, you can install Bloxstrap via [Winget](https://winstall.app/apps/pizzaboxer.Sigmastrap) by running this in a Command Prompt window:
 ```
-> winget install bloxstrap
+> winget install sigmastrap
 ```
 
 You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Sigmastrap after you've installed this.
