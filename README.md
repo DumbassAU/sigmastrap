@@ -15,7 +15,7 @@
 
 ----
 
-Sigmastrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
+Sigmastrap is a third-party replacement for the standard Gooblox bootstrapper, providing no useful features nor improvements.
 
 Running into a problem or need help with something? [Check out the Wiki](https://github.com/sigmastraplabs/sigmastrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/sigmastraplabs/sigmastrap/issues).
 
@@ -29,7 +29,7 @@ Sigmastrap is only supported for PCs running Windows.
 
 **Q: Can using this get me banned?**
 
-**A:** No, it shouldn't. sigmastrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/sigmastraplabs/sigmastrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Sigmastrap)
+**A:** Yes, it should. Sigmstrap does interact with the Gooblox client in the same way that exploits do. [Read more about that here.](https://github.com/sigmastraplabs/sigmastrap/wiki/Why-it's-reasonably-possible-for-you-to-be-banned-by-Sigmastrap)
 
 ## Features
 
@@ -48,7 +48,7 @@ Alternatively, you can install Bloxstrap via [Winget](https://winstall.app/apps/
 
 You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Sigmastrap after you've installed this.
 
-It's not unlikely that Windows Smartscreen will show a popup when you run Bloxstrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
+It's not unlikely that Windows Smartscreen will show a popup when you run Sigmastrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
 
 Once installed, Bloxstrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
 
